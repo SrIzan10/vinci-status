@@ -4,18 +4,20 @@
     "url": "https://vincidiscordbot.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/vincidiscordbot.herokuapp.com",
     "slug": "server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 289,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
-    "dailyMinutesDown": {}
+    "time": 373,
+    "timeDay": 443,
+    "timeWeek": 373,
+    "timeMonth": 373,
+    "timeYear": 373,
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   },
   {
     "name": "Link shortener",
