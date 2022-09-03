@@ -1,26 +1,21 @@
 [
   {
-    "name": "Server 1",
-    "url": "https://vincidiscordbot.herokuapp.com/",
-    "icon": "https://favicons.githubusercontent.com/vincidiscordbot.herokuapp.com",
-    "slug": "server-1",
-    "status": "down",
-    "uptime": "82.31%",
-    "uptimeDay": "62.84%",
-    "uptimeWeek": "86.88%",
-    "uptimeMonth": "82.31%",
-    "uptimeYear": "82.31%",
-    "time": 1143,
-    "timeDay": 497,
-    "timeWeek": 1577,
-    "timeMonth": 1143,
-    "timeYear": 1143,
-    "dailyMinutesDown": {
-      "2022-09-03": 118,
-      "2022-09-02": 417,
-      "2022-08-27": 906,
-      "2022-08-26": 1009
-    }
+    "name": "Master Server",
+    "url": "https://vinci.srizan.ml",
+    "icon": "https://favicons.githubusercontent.com/vinci.srizan.ml",
+    "slug": "master-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4723,
+    "timeDay": 4723,
+    "timeWeek": 4723,
+    "timeMonth": 4723,
+    "timeYear": 4723,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Link shortener",
@@ -33,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 737,
-    "timeWeek": 640,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "time": 945,
+    "timeDay": 651,
+    "timeWeek": 630,
+    "timeMonth": 945,
+    "timeYear": 945,
     "dailyMinutesDown": {}
   }
 ]
