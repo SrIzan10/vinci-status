@@ -4,18 +4,20 @@
     "url": "https://vinci.srizan.ml",
     "icon": "https://favicons.githubusercontent.com/vinci.srizan.ml",
     "slug": "master-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4723,
-    "timeDay": 4723,
-    "timeWeek": 4723,
-    "timeMonth": 4723,
-    "timeYear": 4723,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2498,
+    "timeDay": 2498,
+    "timeWeek": 2498,
+    "timeMonth": 2498,
+    "timeYear": 2498,
+    "dailyMinutesDown": {
+      "2022-09-03": 0
+    }
   },
   {
     "name": "Link shortener",
