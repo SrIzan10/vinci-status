@@ -3,8 +3,8 @@ owner: SrIzan10 # Your GitHub organization or username, where this repository li
 repo: vinci-status # The name of this repository
 
 sites:
-  - name: Server 1
-    url: https://vincidiscordbot.herokuapp.com/
+  - name: Master Server
+    url: https://vinci.srizan.ml
   - name: Link shortener
     url: https://vinci.tk
 
