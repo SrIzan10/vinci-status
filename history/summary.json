@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/vinci.srizan.ml",
     "slug": "master-server",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 1562,
     "timeDay": 4321,
     "timeWeek": 1935,
@@ -26,19 +26,19 @@
     "url": "https://vinci.tk",
     "icon": "https://favicons.githubusercontent.com/vinci.tk",
     "slug": "link-shortener",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 835,
     "timeDay": 913,
     "timeWeek": 715,
     "timeMonth": 835,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2022-09-12": 7
+      "2022-09-12": 0
     }
   }
 ]
