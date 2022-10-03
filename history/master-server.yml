@@ -1,7 +1,7 @@
 url: https://vinci.srizan.ml
-status: up
-code: 200
-responseTime: 644
-lastUpdated: 2022-10-02T23:21:12.965Z
+status: down
+code: 503
+responseTime: 1215
+lastUpdated: 2022-10-03T13:38:32.438Z
 startTime: Sat Sep 03 2022 08:55:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
